@@ -11,4 +11,8 @@ func QuoteHello ()  {
 	fmt.Println ( quote.Hello())
 	
 }
+func QuoteGo () {
+	fmt.Println (quote.Go())
+
+}
 
