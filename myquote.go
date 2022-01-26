@@ -11,8 +11,17 @@ func QuoteHello ()  {
 	fmt.Println ( quote.Hello())
 	
 }
-func QuoteGo () {
-	fmt.Println (quote.Go())
+func QuoteGo ()  {
+	fmt.Println ( quote.Go())
 
 }
+func QuoteGlass () {
+	fmt.Println ( quote.Glass())
+
+}
+func QuoteOpt () {
+	fmt.Prinln ( quote.Opt())
+
+}
+
 
