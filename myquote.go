@@ -20,7 +20,7 @@ func QuoteGlass () {
 
 }
 func QuoteOpt () {
-	fmt.Prinln ( quote.Opt())
+	fmt.Println ( quote.Opt())
 
 }
 
